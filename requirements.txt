@@ -1,0 +1,18 @@
+matplotlib~=3.10.9
+plotly~=6.7.0
+numpy~=2.4.4
+pandas~=3.0.3
+seaborn~=0.13.2
+SQLAlchemy~=2.0.49
+psycopg2-binary~=2.9.12
+duckdb~=1.5.2
+kaleido~=1.3.0
+scipy~=1.17.1
+scikit-learn~=1.8.0
+
+# Reporting / build tooling (regenerate the decks, charts & summary PDF)
+python-pptx~=1.0.2
+reportlab~=4.5.1
+PyMuPDF~=1.27.2
+nbformat~=5.10.4
+Pillow~=12.2.0
