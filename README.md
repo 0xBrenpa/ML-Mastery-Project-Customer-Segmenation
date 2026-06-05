@@ -232,7 +232,7 @@ pip install -r requirements.txt
 
 ## Author & license
 
-**Author:** Paul Brendle — Masterschool *ML Mastery* capstone project.
+**Author:** PB — Masterschool *ML Mastery* capstone project.
 
 This is an **educational project**. The TravelTide dataset is course-provided.
 Code may be reused for learning purposes; please credit the author.
