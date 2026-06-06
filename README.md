@@ -70,7 +70,7 @@ set of presentation-ready deliverables.
 |---|---|---|---|
 | **Engaged mainstream bookers** | 37.8 % | Active, multi-product core; books & bundles often, rarely cancels (~$4,794 LTV) | Loyalty / points programme + bundle free-night |
 | **Light / occasional mainstream** | 37.5 % | Same profile at lower intensity; lower spend, mostly solo | Time-limited “comeback” offer + low-cost sweetener |
-| **Premium far-advance planners** | 7.7 % | Highest fares & spend; book ~145 days ahead; international (~$7,868 LTV) | No cancellation fees + premium service |
+| **Premium far-advance planners** | 7.7 % | Highest fares & spend; book `~`145 days ahead; international (`~`$7,868 LTV) | No cancellation fees + premium service |
 | **Browse-only non-bookers** | 7.0 % | Engage but never convert — intent present, a barrier blocking | Bold first-booking offer + risk removal |
 | **International long-stay hotel** | 5.3 % | Book hotels abroad but flights elsewhere; long stays | Bundle free-night to win the flight leg |
 | **High-engagement budget hunters** | 4.7 % | Most engaged & price-driven; bundle most; cancel most (12 %) | Members-only deals; reward completed trips |
