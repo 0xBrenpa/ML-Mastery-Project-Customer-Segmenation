@@ -12,6 +12,11 @@
 
 ---
 
+<iframe src="https://0xbrenpa.github.io/ML-Mastery-Project-Customer-Segmenation/clusters_3d_offline.html"
+        width="800" height="600" frameborder="0"></iframe>
+
+---
+
 ## Table of contents
 
 - [Project description](#project-description)
